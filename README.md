@@ -1,6 +1,21 @@
-# Countdown-Timer
-A New Year countdown timer is a simple web application that displays a countdown timer to the next New Year's Eve. The timer counts down the seconds, minutes, hours, and days left until the clock strikes midnight on December 31st.
+# New Year Countdown Timer
+The New Year Countdown Timer is a web application that displays a countdown timer to the next New Year's Eve. This timer counts down the seconds, minutes, hours, and days left until the clock strikes midnight on December 31st.
 
-This countdown timer can be embedded into any website or application using a simple HTML code snippet. The timer is customizable, allowing users to change the colors, fonts, and styles to match their website's design.
+## Deployed link
 
-The timer is programmed using JavaScript, HTML, and CSS, and can be easily modified and adapted to suit different needs. It is a useful and fun tool to add to your website or application, especially during the holiday season.
+
+## Features
+* Displays the countdown timer to the next New Year's Eve
+* Customizable colors, fonts, and styles to match your website's design
+* Easy to embed into any website or application using a simple HTML code snippet
+* Programmed using JavaScript, HTML, and CSS
+* Easily modifiable and adaptable to suit different needs
+
+## Installation
+To use the New Year Countdown Timer, simply copy the HTML code snippet from the repository and paste it into your website or application where you want the timer to be displayed.
+
+## Customization
+To customize the timer's appearance, modify the CSS code in the repository to match your website's design. You can change the colors, fonts, and styles to create a unique look and feel for the timer.
+
+## Contributions
+Contributions to the New Year Countdown Timer are welcome! If you have any suggestions or would like to contribute to the project, please submit a pull request on GitHub.
